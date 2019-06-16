@@ -1,10 +1,17 @@
 # 期末考点总结
+
 ## 十八种设计模式
+
 ### Lecture-6
-* ### Composite pattern（复合模式）
+
+* ### Composite pattern（组合模式）
+
 * ### Strategy pattern （策略模式）
+
 * ### Decorator pattern （装饰器模式）
+
 ### Lecture-7
+
 * ### Command Pattern（命令模式）
 ### Lecture-8
 * ### Abstract factory pattern（抽象工厂模式）
@@ -19,11 +26,11 @@
 * ### Prototype pattern（原型模式）
 ### Lecture-11
 * ### Adaptor pattern（适配器模式）
-* ### Bridge pattern（桥模式）
+* ### Bridge pattern（桥接模式）
 ### Lecture-12
 * ### Facade Pattern（门面模式）
 * ### Interpreter pattern（翻译模式）
-* ### Chain of Responsibility（责任链）
+* ### Chain of Responsibility（责任链模式）
 ### Lecture-13
 * ### Observer pattern（观察者模式）
 * ### A case study : sort（案例研究：排序）
