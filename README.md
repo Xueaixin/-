@@ -2,6 +2,17 @@
 
 ## 十八种设计模式
 
+### 三种类型
+
+* 创建型模式（Creational Patterns）  
+  用于构建对象，以便它们可以从实现系统中分离出来。
+
+* 结构型模式（Structural Patterns）  
+  用于在许多不同的对象之间形成大型对象结构。
+  
+* 行为型模式（Behavioral Patterns）  
+  用于管理对象之间的算法、关系和职责。
+
 ### Lecture-6
 
 * ### Composite pattern（组合模式）
